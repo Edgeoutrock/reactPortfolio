@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "PaseoGO",
+      "image": "/images/technics-q-c-640-480-1.jpg",
+      "href": "https://mrlensmith.github.io/paseoGO"
+      
+    },
+    {
+      "id": 2,
+      "name": "Resume",
+      "image": "/images/technics-q-c-640-480-2.jpg",
+      "href": "Resume_ATP.pdf"
+    },
+    {
+      "id": 3,
+      "name": "Quiz Game",
+      "image": "/images/technics-q-c-640-480-5.jpg",
+      "href": "https://edgeoutrock.github.io/quizGame/"
+    },
+    {
+      "id": 4,
+      "name": "Password Generator",
+      "image": "/images/technics-q-c-640-480-7.jpg",
+      "href": "https://edgeoutrock.github.io/passwordNow/" 
+    },
+    {
+      "id": 5,
+      "name": "Burgers Application",
+      "image": "images/technics-q-c-640-480-9.jpg",
+      "href": "https://evening-tundra-43084.herokuapp.com/"
+    },
+    {
+      "id": 6,
+      "name": ".Luminosity",
+      "image": "/images/technics-q-c-640-480-9.jpg",
+      "href": "https://spotifeels.herokuapp.com/home.html"
+    },
+    {
+      "id": 7,
+      "name": "employeesPick",
+      "image": "",
+      "href": "https://employee-directory-002.herokuapp.com/"
+    }
+  ]
